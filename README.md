@@ -249,24 +249,7 @@ Focuses on operational performance and geographical analysis.
 
 The geographical map visual is the remaining dashboard component to be completed.
 
-## Repository Structure
 
-```text
-retail-sales-customer-intelligence-analytics/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│
-├── powerbi/
-│
-├── screenshots/
-│
-├── README.md
-└── .gitignore
-```
 
 ## Key Business Questions
 
